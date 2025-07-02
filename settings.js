@@ -3,15 +3,15 @@ const chalk = require('chalk')
 
 //BOT SETTINGS//
 global.xprefix = '.'
-global.ownername = 'ElitePro'
+global.ownername = 'salo'
 global.botname = 'ELITE-PRO-V2'
 global.ytname = "YT: EliteProTechs"
 global.socialm = "GitHub: EliteProTech"
-global.location = "Port Harcourt, Nigeria"
-global.ownernumber = '2348109263390'
+global.location = "Port Mombasa, kenya"
+global.ownernumber = '254702689122'
 
 //BOT SETTINGS 2//
-global.premium = ["2348109263390"] //Premium 
+global.premium = ["254702689122"] //Premium 
 global.websitex = "https://youtube.com/@eliteprotechs"
 global.wagc = "https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g"
 global.themeemoji = '👨🏼‍💻'
